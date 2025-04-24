@@ -226,7 +226,7 @@ BUS-TICKETING-SYSTEM/
 ## 🚀 Getting Started
 
 ```bash
-git clone https://github.com/Aaditya77700/bus-ticketing-system.git
+git clone https://github.com/Web-Dev-Kombee/Bus-Ticketing-System.git
 cd bus-ticketing-system
 composer install
 cp .env.example .env
